@@ -21,7 +21,13 @@ BasementLightControl
 ```
 
 ### Purpose <a name="purpose"></a>
-</br>
+To implement a 3-way switch control logic in a PLC program for a Basement Control Light System. There are two switches: one for upper-level and one for lower-level. Both of the switch control the Basement light. When both of the switches are in the same position, the light must be OFF, when one switch is ON and the other is OFF, then only the light is OFF. Below is a Truth table describing the logic.</br>
+| Upper Level Switch | Lower Level Switch | Light Output |
+|:------------------:|:------------------:|:------------:|
+|         OFF        |         OFF        |      OFF     |
+|         OFF        |         ON         |      ON      |
+|         OFF        |         ON         |      ON      |
+|         ON         |         ON         |      OFF     |
 
 ### Tools Used <a name="toolsused"></a>
 1. SIMATIC STEP 7 (TIA Portal V16) </br>

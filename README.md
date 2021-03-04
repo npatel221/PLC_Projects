@@ -1,6 +1,12 @@
 # PLC_Projects
 This repository contains several projects that I have completed to enhance and hone my PLC programming skills.
 
+### [BasementLightControl](/BasementLightControl)
+
+<p align="center">
+  <img src="BasementLightControl/images/basementlightdemo.gif"/>
+</p>
+
 ### [SortingPlant](/SortingPlant)
 
 <p align="center">
