@@ -36,7 +36,43 @@ To implement a 3-way switch control logic in a PLC program for a Basement Contro
 
 ### Demo <a name="demo"></a>
 <p align="center">
-  <img src="images/basementlightdemo.gif"/>
+  <img src="images/01_getTime.gif"/>
+  <b>Functional Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="images/02_S7Communication.gif"/>
+  <b>Functional Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="images/03_opcua.gif"/>
+  <b>Functional Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="images/04_mqtt.gif"/>
+  <b>Functional Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="images/05_python.gif"/>
+  <b>Functional Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="images/06_cppoeecalculator.gif"/>
+  <b>Functional Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="images/07_mindsphere.gif"/>
   <b>Functional Demo</b>
 </p>
 </br>
