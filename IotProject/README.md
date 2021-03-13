@@ -41,3 +41,9 @@ To implement a 3-way switch control logic in a PLC program for a Basement Contro
 </p>
 </br>
 </br>
+
+### Notes
+- getting started with node-red (getTime)
+- S7 communication with PLC ()
+- OPC-UA communication with PLC ()
+- MQTT communication with PLC ()
