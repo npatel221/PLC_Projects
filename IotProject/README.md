@@ -37,43 +37,43 @@ To implement a 3-way switch control logic in a PLC program for a Basement Contro
 ### Demo <a name="demo"></a>
 <p align="center">
   <img src="images/01_getTime.gif"/>
-  <b>Functional Demo</b>
+  <b>Get Time Demo</b>
 </p>
 </br>
 </br>
 <p align="center">
   <img src="images/02_S7Communication.gif"/>
-  <b>Functional Demo</b>
+  <b>S7 Communication Demo</b>
 </p>
 </br>
 </br>
 <p align="center">
   <img src="images/03_opcua.gif"/>
-  <b>Functional Demo</b>
+  <b>OPC-UA Communication Demo</b>
 </p>
 </br>
 </br>
 <p align="center">
   <img src="images/04_mqtt.gif"/>
-  <b>Functional Demo</b>
+  <b>MQTT Communication Demo</b>
 </p>
 </br>
 </br>
 <p align="center">
   <img src="images/05_python.gif"/>
-  <b>Functional Demo</b>
+  <b>Running Python Script Demo</b>
 </p>
 </br>
 </br>
 <p align="center">
   <img src="images/06_cppoeecalculator.gif"/>
-  <b>Functional Demo</b>
+  <b>Running C++ App Demo</b>
 </p>
 </br>
 </br>
 <p align="center">
   <img src="images/07_mindsphere.gif"/>
-  <b>Functional Demo</b>
+  <b>MindSphere Cloud Connection Demo</b>
 </p>
 </br>
 </br>
