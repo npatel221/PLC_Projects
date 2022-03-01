@@ -18,3 +18,45 @@ This repository contains several projects that I have completed to enhance and h
 <p align="center">
   <img src="TrafficLightControl/images/trafficlightdemo.gif"/>
 </p>
+
+### [IoTProjects](/IotProject)
+<p align="center">
+  <img src="IotProject/images/01_getTime.gif"/>
+  <b>Get Time Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="IotProject/images/02_S7Communication.gif"/>
+  <b>S7 Communication Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="IotProject/images/03_opcua.gif"/>
+  <b>OPC-UA Communication Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="IotProject/images/04_mqtt.gif"/>
+  <b>MQTT Communication Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="IotProject/images/05_python.gif"/>
+  <b>Running Python Script Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="IotProject/images/06_cppoeecalculator.gif"/>
+  <b>Running C++ App Demo</b>
+</p>
+</br>
+</br>
+<p align="center">
+  <img src="IotProject/images/07_mindsphere.gif"/>
+  <b>MindSphere Cloud Connection Demo</b>
+</p>
