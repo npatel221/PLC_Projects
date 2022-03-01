@@ -12,3 +12,9 @@ This repository contains several projects that I have completed to enhance and h
 <p align="center">
   <img src="SortingPlant/images/sortplant_constantspeed_demo.gif"/>
 </p>
+
+### [TrafficLightControl](/TrafficLightControl)
+
+<p align="center">
+  <img src="TrafficLightControl/images/trafficlightdemo.gif"/>
+</p>
